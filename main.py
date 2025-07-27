@@ -8,7 +8,7 @@ api_hash = '34f981178528c8167680f1429bb526c6'
 bot_token = '7723230187:AAFNSF3UusSY81rq5d9qrZDxhSTcwlgEams'
 
 # כאן תשלח את ההודעות – משתמש ששלח לבוט קודם
-chat_id = None  # נשלים בהמשך
+chat_id = 6708985488
 
 source_channel = 'https://t.me/Moshepargod'
 
